@@ -1,0 +1,54 @@
+
+.header {
+  width: 100%;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.profile-form-div {
+  width: 100%;
+  text-align: center;
+}
+
+.profile-form {
+  display: grid;
+  width: 40%;
+  margin: 10px auto;
+
+  border: 1px solid black;
+
+}
+
+.field {
+  margin-bottom: 15px;
+}
+
+.input-tags {
+  width: 80%;
+}
+
+.submit {
+  width: 40%;
+}
+
+.field {
+  width: 100%;
+  text-align: center;
+}
+
+.inputtags {
+  width: 80%;
+  text-align: center;
+  border: 0.02px solid rgb(105, 105, 105);
+  margin: auto;
+}
+
+.app {
+  width: 100%;
+  display: grid;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
